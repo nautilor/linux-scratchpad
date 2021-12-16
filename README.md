@@ -1,7 +1,5 @@
 # Linux Window Scratchpad
 
-[![Generic badge](https://img.shields.io/badge/UNIXPORN%20TELEGRAM-blue)](https://t.me/unixporn_group)
-
 A simple scratchpad like implementation to use with any DE/WM
 
 ## Install
